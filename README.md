@@ -1,3 +1,5 @@
+> [!NOTE]
+> This code is the code that I got from studying on YouTube. **Patiphan Phengpao** It is not intended to be used commercially. Use for educational purposes only !!.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
